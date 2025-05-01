@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/Bishoujo.Senshi.Sailor.Moon.full.4157947.jpg
+coverY: 198
+---
+
 # Home
 
-<figure><img src=".gitbook/assets/A5496DB6C7D496908D5584A8CE0F987BADC47754.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/IMG_7045.png" alt="" width="375"><figcaption><p>C'est un selfie de moi même :)</p></figcaption></figure>
