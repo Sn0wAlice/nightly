@@ -33,4 +33,6 @@ Nous allons t’entraîner jusqu’à ce que PostgreSQL lui-même tremble à ton
 
 (ou mange un kebab et reviens, mais après t’as intérêt à cliquer.)
 
+<a href="sql-select.md" class="button primary">Démarrer la quête</a>
+
 <figure><img src="../../.gitbook/assets/9t2nxa.jpg" alt=""><figcaption></figcaption></figure>
