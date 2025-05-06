@@ -11,12 +11,13 @@ Une table ressemble à un tableau avec :
 
 **Exemple de table utilisateurs :**
 
-| 1 | Alice | 30 | France   | 1 |
-| - | ----- | -- | -------- | - |
-| 2 | Bob   | 22 | Belgique | 0 |
-| 3 | Clara | 35 | France   | 1 |
-| 4 | David | 28 | Canada   | 1 |
-| 5 | Emma  | 19 | France   | 0 |
+| id | nom   | age | pays     | actif |
+| -- | ----- | --- | -------- | ----- |
+| 1  | Alice | 30  | France   | 1     |
+| 2  | Bob   | 22  | Belgique | 0     |
+| 3  | Clara | 35  | France   | 1     |
+| 4  | David | 28  | Canada   | 1     |
+| 5  | Emma  | 19  | France   | 0     |
 
 ***
 
