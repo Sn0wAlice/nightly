@@ -4,10 +4,11 @@
 
 ## Database
 
-* [Optimisation](database/optimisation/README.md)
-  * [Système de recommandation](database/optimisation/systeme-de-recommandation.md)
-  * [STRING Deep Search](database/optimisation/string-deep-search.md)
-  * [Vector Database](database/optimisation/vector-database.md)
+* [Projets](database/projets/README.md)
+  * [Système de recommandation](database/projets/systeme-de-recommandation.md)
+  * [STRING Deep Search](database/projets/string-deep-search.md)
+* [Type](database/type/README.md)
+  * [Vector Database](database/type/vector-database.md)
 
 ## Rust
 
