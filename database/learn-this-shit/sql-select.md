@@ -11,13 +11,12 @@ Une table ressemble à un tableau avec :
 
 **Exemple de table utilisateurs :**
 
-| id | nom   | age | pays     | actif |
-| -- | ----- | --- | -------- | ----- |
-| 1  | Alice | 30  | France   | 1     |
-| 2  | Bob   | 22  | Belgique | 0     |
-| 3  | Clara | 35  | France   | 1     |
-| 4  | David | 28  | Canada   | 1     |
-| 5  | Emma  | 19  | France   | 0     |
+| 1 | Alice | 30 | France   | 1 |
+| - | ----- | -- | -------- | - |
+| 2 | Bob   | 22 | Belgique | 0 |
+| 3 | Clara | 35 | France   | 1 |
+| 4 | David | 28 | Canada   | 1 |
+| 5 | Emma  | 19 | France   | 0 |
 
 ***
 
@@ -94,7 +93,6 @@ Voici les opérateurs les plus courants avec WHERE :
 
 | Opérateur | Signification     | Exemple          |
 | --------- | ----------------- | ---------------- |
-| =         | égal              | age = 30         |
 | <> ou !=  | différent         | pays <> 'France' |
 | <         | inférieur         | age < 25         |
 | >         | supérieur         | age > 25         |
