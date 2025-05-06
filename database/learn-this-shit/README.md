@@ -32,3 +32,5 @@ Nous allons t’entraîner jusqu’à ce que PostgreSQL lui-même tremble à ton
 👉 Clique sur “Démarrer la quête”
 
 (ou mange un kebab et reviens, mais après t’as intérêt à cliquer.)
+
+<figure><img src="../../.gitbook/assets/9t2nxa.jpg" alt=""><figcaption></figcaption></figure>
