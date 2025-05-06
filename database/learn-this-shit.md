@@ -1,10 +1,8 @@
+---
+description: 🧙‍♂️ Bienvenue à la Formation SQL
+---
+
 # Learn this shit
-
-Excellent choix 😄 ! Voici une home page comique pour ta micro-formation SQL, avec un ton épique façon “tu vas devenir un demi-dieu du data” :
-
-***
-
-### 🧙‍♂️ Bienvenue à la Formation SQL :&#x20;
 
 ### “De Zéro à Demi-Dieu”
 
