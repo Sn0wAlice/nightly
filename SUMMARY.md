@@ -19,6 +19,11 @@
 * [Type](database/type/README.md)
   * [Vector Database](database/type/vector-database.md)
 
+## Mariadb
+
+* [Tips](mariadb/tips/README.md)
+  * [Column coma separated value](mariadb/tips/column-coma-separated-value.md)
+
 ## Rust
 
 * [todo](rust/todo.md)
