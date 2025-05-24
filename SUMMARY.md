@@ -20,3 +20,17 @@
   * [Vector Database](database/type/vector-database.md)
 * [Mariadb - Tips](database/mariadb-tips/README.md)
   * [Column coma separated value](database/mariadb-tips/column-coma-separated-value.md)
+
+## Group 1
+
+* [Crypto API](group-1/crypto-api/README.md)
+  * ```yaml
+    type: builtin:openapi
+    props:
+      models: false
+    dependencies:
+      spec:
+        ref:
+          kind: openapi
+          spec: crypto-info
+    ```
