@@ -2,6 +2,10 @@
 
 L'API **Krypto** permet d'interroger des adresses de portefeuilles blockchain afin d'obtenir des informations sur les transactions associées.&#x20;
 
+{% hint style="info" %}
+Clef d'api on demand, envoie moi un email pour en savoir plus
+{% endhint %}
+
 Elle prend en charge plusieurs types de requêtes, notamment :
 
 * Vérification de la validité d'une clé API.

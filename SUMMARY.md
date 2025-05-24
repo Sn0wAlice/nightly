@@ -21,9 +21,9 @@
 * [Mariadb - Tips](database/mariadb-tips/README.md)
   * [Column coma separated value](database/mariadb-tips/column-coma-separated-value.md)
 
-## Group 1
+## API
 
-* [Crypto API](group-1/crypto-api/README.md)
+* [Crypto API](api/crypto-api/README.md)
   * ```yaml
     type: builtin:openapi
     props:
